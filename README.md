@@ -3,6 +3,4 @@ An additional program to be used alongside the Fastscape Landscape evolution mod
 
 Please download Fascape first, and add the desired crater models in the same folder. 
 
-To run the models, you will need to compile them using the following code:
-
-< code >
+To run the models, you will need to compile them alongside Fastscape.
